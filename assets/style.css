@@ -32,7 +32,7 @@ p {
   .card {
     width: 80%;
     margin: 40px auto;
-    border: 5px solid red(121, 16, 16);
+    border: 5px solid blue(121, 16, 16);
     box-shadow: 5px 10px #220283
     ;
   }
